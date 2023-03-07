@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zWkn1cC4fKnIKTz8k3f363HDBJp+BtfGGUHtM/rwLBSy/ZGQO2XTdlTkXt9LPuasbudyljrNJ6nPEm1XhVSQEA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Helber Vitorino\\source\\repos\\exercicios\\exercicios\\exercicios.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Helber Vitorino\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
